@@ -471,11 +471,3 @@ This project is intended for **educational and portfolio purposes only**. All ri
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-GitHub: `https://github.com/your-username`
-
----
-
-⭐ If you find this project useful, consider giving the repository a star.
